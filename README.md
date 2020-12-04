@@ -19,6 +19,6 @@ Since we are concerned with looking at how the cases spread over time, we will o
 
 ### Plotting Choropleth Map
 
-I used the Plotly Express library to plot the Choropleth animation. The documentation can be found [here].(https://plotly.com/python-api-reference/plotly.express.html)
+I used the Plotly Express library to plot the Choropleth animation. The documentation can be found [here](https://plotly.com/python-api-reference/plotly.express.html).
 
 I couldn't find a way to export the animation using the plotly library hence I'll upload a MP4 file seperately. 
