@@ -3,7 +3,7 @@
 
 ## Motivation
 
-This project is a basic data cleaning and analysis project using Pandas for data cleaning and pre processing and using Plotly to build choropleth maps and animations. The main aim of this project is to look at how COVID-19 spread across the world and also figure out if lockdowns imposed by Governments was impactful in controlling the number of cases or not. For analysing the lockdown impact, I will only be looking at confirmed cases in India.    
+This project is a basic data cleaning and analysis project using Pandas for data cleaning and pre processing and using Plotly to build choropleth maps and animations. The main aim of this project is to look at how COVID-19 spread across the world.    
 
 ### Dataset
 
@@ -19,6 +19,11 @@ Since we are concerned with looking at how the cases spread over time, we will o
 
 ### Plotting Choropleth Map
 
-I used the Plotly Express library to plot the Choropleth animation. The documentation can be found [here](https://plotly.com/python-api-reference/plotly.express.html).
+I used the Plotly Express library to plot the Choropleth animation. The documentation can be found [here](https://plotly.com/python-api-reference/plotly.express.html). 
+
+Note that I have used only the confirmed cases column to visualise the spread of cases. Similar things can be done to show the number of deaths and the number of recovered cases across the world. 
 
 I couldn't find a way to export the animation using the plotly library hence I'll upload a MP4 file seperately. 
+
+
+
